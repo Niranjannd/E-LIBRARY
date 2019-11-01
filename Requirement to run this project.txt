@@ -1,0 +1,21 @@
+1. express
+2. morgan
+3. cookie-parser
+4. body-parser
+5. express-handlebars
+6. mongoose
+7. express-session
+8. passport
+9. connect-flash
+10. express-validator
+11. connect-mongo.
+
+
+server listen:--
+index--localhost:3000
+
+
+sign in page---localhost:3000/signin
+
+
+sign up page---localhost:3000/signup
